@@ -1,0 +1,94 @@
+﻿{
+  "Info": {
+    "Class": "clsVCSIndex",
+    "Description": "Version Control System Index"
+  },
+  "Items": {
+    "MergeBuildDate": null,
+    "FullBuildDate": null,
+    "ExportDate": "2024-12-13T11:31:44.000Z",
+    "FullExportDate": "2024-12-13T11:31:44.000Z",
+    "OptionsHash": "d620f90",
+    "LastMergedCommit": "",
+    "Components": {
+      "DB Connections": {
+        "db-connection.json": {
+        }
+      },
+      "DB Properties": {
+        "dbs-properties.json": {
+          "FileHash": "918fd91",
+          "ExportDate": "2024-12-13T11:31:41.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "f27d61d"
+        }
+      },
+      "Doc Properties": {
+        "documents.json": {
+          "FileHash": "80462ac",
+          "ExportDate": "2024-12-13T11:31:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "d847fd3"
+        }
+      },
+      "Forms": {
+        "ErrorListF.bas": {
+          "FileHash": "23ca437",
+          "OtherHash": "292d91d",
+          "ExportDate": "2024-12-13T11:31:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "936644e"
+        }
+      },
+      "Hidden Attributes": {
+        "hidden-attributes.json": {
+        }
+      },
+      "Nav Pane Groups": {
+        "nav-pane-groups.json": {
+          "FileHash": "8b001dd",
+          "ExportDate": "2024-12-13T11:31:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "dcd437e"
+        }
+      },
+      "Proj Properties": {
+        "proj-properties.json": {
+        }
+      },
+      "Project": {
+        "project.json": {
+          "FileHash": "9fe41ad",
+          "ExportDate": "2024-12-13T11:31:41.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "fa203b5"
+        }
+      },
+      "Themes": {
+        "Office 2013 - 2022 Theme.thmx": {
+          "FileHash": "2a0523e",
+          "OtherHash": "445a7a3",
+          "ExportDate": "2024-12-13T11:31:41.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "1547b4a"
+        }
+      },
+      "VB Project": {
+        "vbe-project.json": {
+          "FileHash": "57a2d47",
+          "ExportDate": "2024-12-13T11:31:41.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "707a37d"
+        }
+      },
+      "VBE References": {
+        "vbe-references.json": {
+          "FileHash": "c8d14f7",
+          "ExportDate": "2024-12-13T11:31:41.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "e48e18f"
+        }
+      }
+    }
+  }
+}
